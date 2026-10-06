@@ -80,7 +80,7 @@
             <button class="oriana-mic">
 
                <img 
-               src="http://localhost:5173/mic.svg"
+               src="https://oriana-ai.onrender.com/mic.svg"
                alt="mic"
                class="oriana-mic-icon"/>
             </button>
