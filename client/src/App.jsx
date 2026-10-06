@@ -7,7 +7,7 @@ import Navbar from "./components/Navbar";
 import Billing from "./pages/Billing";
 import Builder from "./pages/Builder";
 import { Toaster } from "react-hot-toast";
-export const ServerUrl = "http://localhost:8000"
+export const ServerUrl = "https://oriana-ai-ai-voice-agentserver.onrender.com"
 export const CLIENT_URL = "http://localhost:5173"
 
 
