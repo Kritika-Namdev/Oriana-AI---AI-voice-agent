@@ -15,7 +15,7 @@
 
     link.rel = "stylesheet"
 
-    link.href = "http://localhost:5173/assistant.css"
+    link.href = "https://oriana-ai.onrender.com/assistant.css"
 
     document.head.appendChild(link)
 
@@ -99,7 +99,7 @@
 
     button.innerHTML = `
     <img 
-    src="http://localhost:5173/logo.png"
+    src="https://oriana-ai.onrender.com/logo.png"
     alt="logo"
     />`;
     document.body.appendChild(button)
